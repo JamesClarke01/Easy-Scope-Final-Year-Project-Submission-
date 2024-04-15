@@ -1,6 +1,8 @@
 # EasyScope
 An Arduino-based GoTo telescope mount controlled with a mobile application via Bluetooth.
 
+**This is the version of code submitted for the TU Dublin Final Year Project Assignment**
+
 # Telescope Mount
 ## Components
 | **Name**                                | **Qty.** | **Usage**                                                          |
@@ -21,5 +23,3 @@ An Arduino-based GoTo telescope mount controlled with a mobile application via B
 
 ### Adafruit Motor Shield Component Connections
 <img src="https://github.com/JamesClarke01/EasyScope/blob/master/Images/AdashieldHighlightCrop.jpg" width="30%">
-
-
